@@ -1,6 +1,6 @@
 ## Hi there 👋. I'm Prepmachine4!✨
 
- ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+ ![](https://komarev.com/ghpvc/?username=Prepmachine4&label=Profile%20Visits&color=blue&style=for-the-badge)
 <!--
 **Prepmachine4/Prepmachine4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
